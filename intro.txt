@@ -1,1 +1,4 @@
+Name: [Tristan Dave Beldad]
+Course: [BSIT]
+Interests in programming: [Python]
 
